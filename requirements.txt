@@ -1,0 +1,7 @@
+pyttsx3
+speechrecognition
+pipwin
+wikipedia
+requests
+bs4
+headlines
